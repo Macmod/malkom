@@ -11,7 +11,7 @@ Note that most use cases and supported metrics in Malkom generate very dense gra
 * `tlsh`. [TrendMicro's TLSH](https://github.com/trendmicro/tlsh) (PE)
 * `telfhash`. [TrendMicro's Telfhash](https://github.com/trendmicro/telfhash) (ELF)
 * `ssdeep`. [SSDeep](https://ssdeep-project.github.io/ssdeep/) (PE/ELF)
-* `imphash`. [Imphash](link) (PE)
+* `imphash`. [Mandiant's Imphash](https://www.mandiant.com/resources/blog/tracking-malware-import-hashing) (PE)
 * `elfsymbols`. Symbol-Set Jaccard (ELF)
 * `peimports`. Imports-Set Jaccard (PE)
 * `peexports`. Exports-Set Jaccard (PE)
