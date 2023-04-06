@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+graphviz = "==0.20.1"
+networkx = "==2.4"
+numpy = "==1.21.5"
+pefile = "==2023.2.7"
+pyelftools = "==0.29"
+pyimpfuzzy = "==0.5"
+python-magic = "==0.4.27"
+tqdm = "==4.57.0"
+utils = "==1.0.1"
+py-tlsh = "==4.7.2"
+telfhash = "==0.9.8"
+ssdeep = "==3.4"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
